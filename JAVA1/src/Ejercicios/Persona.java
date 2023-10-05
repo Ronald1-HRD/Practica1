@@ -20,5 +20,6 @@ public class Persona {
         System.out.println("Nombre de la persona:"+nombre);
         System.out.println("Apellido de la persona:"+apellido);
         System.out.println("Edad de lapersona:"+edad);
+        //todos somos geniuales
     }
 }
